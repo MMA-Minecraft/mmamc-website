@@ -3,7 +3,7 @@
     <title>mmaminecraft</title>
     <link href="https://mmaminecraft.org/feed.xml" rel="self" />
     <link href="https://mmaminecraft.org" />
-    <updated>2025-12-21T20:30:26-05:00</updated>
+    <updated>2025-12-21T21:18:57-05:00</updated>
     <author>
         <name>MMAMinecraft</name>
     </author>
@@ -109,7 +109,7 @@
 <li>Name the server whatever you like, and insert this in the IP address bar:</li>
 </ol>
 <p><code><strong>modded.mmaminecraft.org</strong></code></p>
-<p>The default settings that I pre-loaded are on the low end of things. Turn up distant horizons and <a href="https://mmaminecraft.org/turning-on-shaders/" target="_blank" rel="noopener noreferrer">turn on shaders</a> if you want better graphics. Turn off distant horizons and remove the resource packs if your laptop is screaming for help.</p>
+<p>The default settings that I pre-loaded are on the low end of things. Turn up distant horizons and <a href="https://mmaminecraft.org/turning-on-shaders/" target="_blank" rel="noopener noreferrer">turn on shaders</a> if you want better graphics. <a href="https://mmaminecraft.org/turning-off-distant-horizons-dh/">Turn off distant horizons</a> and <a href="https://youtu.be/BJUmYnwVibc?si=aQu0cytOqFJhaLH6&amp;t=222" target="_blank" rel="noopener">remove the resource packs</a> if your laptop is screaming for help.</p>
             ]]>
         </content>
     </entry>

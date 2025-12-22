@@ -3,7 +3,7 @@
     <title>mmaminecraft</title>
     <link href="https://mmaminecraft.org/feed.xml" rel="self" />
     <link href="https://mmaminecraft.org" />
-    <updated>2025-12-21T18:36:51-05:00</updated>
+    <updated>2025-12-21T19:40:48-05:00</updated>
     <author>
         <name>MMAMinecraft</name>
     </author>
@@ -25,7 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Welcome to the official Maine Maritime Academy Minecraft server website! We have a <strong>vanilla </strong>and a <strong>modded </strong>server here at the academy. Quick guides to joining:</p>
+                <figure class="post__image"><img loading="lazy"  src="https://mmaminecraft.org/media/posts/1/2025-12-21_18.30.20.png" alt="" width="1920" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-xs.png 640w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-sm.png 768w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-md.png 1024w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-lg.png 1366w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-xl.png 1600w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2xl.png 1920w"></figure>
+<p>Welcome to the official Maine Maritime Academy Minecraft server website! We have a <strong>vanilla </strong>and a <strong>modded </strong>server here at the academy. Quick guides to joining:</p>
 <h4>Vanilla</h4>
 <ol>
 <li>Launch Minecraft in version 1.21.10 (click <a href="https://www.youtube.com/watch?v=7WxcFRsyjWQ" target="_blank" rel="noopener noreferrer">here </a>for a guide on changing versions)</li>

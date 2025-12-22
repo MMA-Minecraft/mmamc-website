@@ -3,12 +3,63 @@
     <title>mmaminecraft</title>
     <link href="https://mmaminecraft.org/feed.xml" rel="self" />
     <link href="https://mmaminecraft.org" />
-    <updated>2025-12-21T19:52:06-05:00</updated>
+    <updated>2025-12-21T20:24:11-05:00</updated>
     <author>
         <name>MMAMinecraft</name>
     </author>
     <id>https://mmaminecraft.org</id>
 
+    <entry>
+        <title>Turning off Distant Horizons (DH)</title>
+        <author>
+            <name>MMAMinecraft</name>
+        </author>
+        <link href="https://mmaminecraft.org/turning-off-distant-horizons-dh/"/>
+        <id>https://mmaminecraft.org/turning-off-distant-horizons-dh/</id>
+
+        <updated>2025-12-21T18:29:06-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Press ESC, then Options, then the colorful squares in the top left. Change "Enable Rendering" to False Play with the settings if you want to keep it on! CPU load and render distance make the biggest difference from what I've seen. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>Press ESC, then Options, then the colorful squares in the top left.</li>
+<li>Change "Enable Rendering" to False</li>
+</ol>
+<p>Play with the settings if you want to keep it on! CPU load and render distance make the biggest difference from what I've seen. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Turning on Shaders</title>
+        <author>
+            <name>MMAMinecraft</name>
+        </author>
+        <link href="https://mmaminecraft.org/turning-on-shaders/"/>
+        <id>https://mmaminecraft.org/turning-on-shaders/</id>
+
+        <updated>2025-12-21T18:24:05-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Press ESC, click Options, click Video Settings Click Oculus on the left Choose one of the pre-loaded shader packs and click Apply. The game will now reload, but with shaders. Bliss works with distant horizons for a truly breathtaking game, but you need dedicated graphics,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>Press <em>ESC</em>, click <em>Options</em>, click <em>Video Settings</em></li>
+<li>Click <em>Oculus </em>on the left</li>
+<li>Choose one of the pre-loaded shader packs and click Apply.</li>
+<li>The game will now reload, but with shaders.</li>
+</ol>
+<p>Bliss works with distant horizons for a truly breathtaking game, but you need dedicated graphics, and good ones at that!</p>
+<figure class="post__image"><img loading="lazy"  src="https://mmaminecraft.org/media/posts/2/2025-12-21_18.30.20.png" alt="" width="1920" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mmaminecraft.org/media/posts/2/responsive/2025-12-21_18.30.20-xs.png 640w ,https://mmaminecraft.org/media/posts/2/responsive/2025-12-21_18.30.20-sm.png 768w ,https://mmaminecraft.org/media/posts/2/responsive/2025-12-21_18.30.20-md.png 1024w ,https://mmaminecraft.org/media/posts/2/responsive/2025-12-21_18.30.20-lg.png 1366w ,https://mmaminecraft.org/media/posts/2/responsive/2025-12-21_18.30.20-xl.png 1600w ,https://mmaminecraft.org/media/posts/2/responsive/2025-12-21_18.30.20-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Join Today!</title>
         <author>
@@ -27,7 +78,11 @@
             <![CDATA[
                 <p> </p>
 <p>Welcome to the official Maine Maritime Academy Minecraft server website! We have a <strong>vanilla </strong>and a <strong>modded </strong>server here at the academy. Quick guides to joining:</p>
+<p> </p>
 <h4>Vanilla</h4>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://mmaminecraft.org/media/posts/1/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410.jpg" alt="" width="780" height="410" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mmaminecraft.org/media/posts/1/responsive/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410-xs.jpg 640w ,https://mmaminecraft.org/media/posts/1/responsive/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410-sm.jpg 768w ,https://mmaminecraft.org/media/posts/1/responsive/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410-md.jpg 1024w ,https://mmaminecraft.org/media/posts/1/responsive/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410-lg.jpg 1366w ,https://mmaminecraft.org/media/posts/1/responsive/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410-xl.jpg 1600w ,https://mmaminecraft.org/media/posts/1/responsive/Minecraft-Mounts-of-Mayhem-Everything-You-Should-Know-5-780x410-2xl.jpg 1920w">
+<figcaption>Image <a href="https://www.gamer.org/minecraft-mounts-of-mayhem-everything-you-should-know/" target="_blank" rel="noopener">Credits</a></figcaption>
+</figure>
 <ol>
 <li>Launch Minecraft in version 1.21.11 (click <a href="https://www.youtube.com/watch?v=7WxcFRsyjWQ" target="_blank" rel="noopener noreferrer">here </a>for a guide on changing versions)</li>
 <li>Go to multiplayer tab and click "Add Server" at the bottom</li>

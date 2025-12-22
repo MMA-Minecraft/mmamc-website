@@ -3,7 +3,7 @@
     <title>mmaminecraft</title>
     <link href="https://mmaminecraft.org/feed.xml" rel="self" />
     <link href="https://mmaminecraft.org" />
-    <updated>2025-12-21T19:40:48-05:00</updated>
+    <updated>2025-12-21T19:52:06-05:00</updated>
     <author>
         <name>MMAMinecraft</name>
     </author>
@@ -25,17 +25,20 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://mmaminecraft.org/media/posts/1/2025-12-21_18.30.20.png" alt="" width="1920" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-xs.png 640w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-sm.png 768w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-md.png 1024w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-lg.png 1366w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-xl.png 1600w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2xl.png 1920w"></figure>
+                <p> </p>
 <p>Welcome to the official Maine Maritime Academy Minecraft server website! We have a <strong>vanilla </strong>and a <strong>modded </strong>server here at the academy. Quick guides to joining:</p>
 <h4>Vanilla</h4>
 <ol>
-<li>Launch Minecraft in version 1.21.10 (click <a href="https://www.youtube.com/watch?v=7WxcFRsyjWQ" target="_blank" rel="noopener noreferrer">here </a>for a guide on changing versions)</li>
+<li>Launch Minecraft in version 1.21.11 (click <a href="https://www.youtube.com/watch?v=7WxcFRsyjWQ" target="_blank" rel="noopener noreferrer">here </a>for a guide on changing versions)</li>
 <li>Go to multiplayer tab and click "Add Server" at the bottom</li>
 <li>Name the server whatever you like, and insert this in the IP address bar:</li>
 </ol>
 <p><code><strong>vanilla.mmaminecraft.org</strong></code></p>
 <p>You can join the server now!</p>
 <h4>Modded</h4>
+<figure class="post__image align-center post__image--center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://mmaminecraft.org/media/posts/1/2025-12-21_18.30.20-2.png" alt="Modded Server Image" width="599" height="337" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2-xs.png 640w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2-sm.png 768w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2-md.png 1024w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2-lg.png 1366w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2-xl.png 1600w ,https://mmaminecraft.org/media/posts/1/responsive/2025-12-21_18.30.20-2-2xl.png 1920w"></figure>
+<figcaption>modded.mmaminecraft.org</figcaption>
+</figure>
 <ol>
 <li><a href="https://www.curseforge.com/download/app" target="_blank" rel="noopener noreferrer">Install Curseforge</a> and link it to your Minecraft account. You can install the standalone version, Overwolf is not required. (click <a href="https://www.youtube.com/watch?v=zDINExUM6do" target="_blank" rel="noopener noreferrer">here </a>for a guide)</li>
 <li>Look up <a href="https://www.curseforge.com/minecraft/modpacks/mmacraft" target="_blank" rel="noopener noreferrer">MMA Craft</a> on Curseforge. Install the modpack uploaded by <em>MaineMinecraft</em>.</li>

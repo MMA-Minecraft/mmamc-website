@@ -3,7 +3,7 @@
     <title>mmaminecraft</title>
     <link href="https://mmaminecraft.org/feed.xml" rel="self" />
     <link href="https://mmaminecraft.org" />
-    <updated>2025-12-21T21:18:57-05:00</updated>
+    <updated>2025-12-30T10:26:27-05:00</updated>
     <author>
         <name>MMAMinecraft</name>
     </author>
@@ -71,7 +71,7 @@
         <updated>2025-12-16T19:36:52-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Welcome to the official Maine Maritime Academy Minecraft server website! We have a vanilla and a modded server here at the academy. Quick guides to joining: vanilla.mmaminecraft.org You can join the server now! modded.mmaminecraft.org The default settings that I pre-loaded are on the low end&hellip;
+                    Welcome to the official Maine Maritime Academy Minecraft server website! We have a vanilla and a modded server here at the academy. Quick guides to joining: vanilla.mmaminecraft.org You can join the server now! Ps: The default settings that I pre-loaded are on the low end&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -106,10 +106,11 @@
 </li>
 <li>Click play on the MMA Craft modpack. If it crashes, try changing your RAM settings, or Googling the error. If you can't solve it, <a href="https://discord.gg/9mvRAeBp7j" target="_blank" rel="noopener noreferrer">join the discord</a> and message the support channel.</li>
 <li>Go to the multiplayer tab and click "Add Server" at the bottom.</li>
-<li>Name the server whatever you like, and insert this in the IP address bar:</li>
+<li>Name the server whatever you like, and insert this in the IP address bar: <code><strong>modded.mmaminecraft.org</strong></code></li>
+<li>When trying to join, it will say that you are not whitelisted. <a href="https://discord.gg/9mvRAeBp7j" target="_blank" rel="noopener noreferrer">Join the discord </a>and click on the "Whitelist application" channel. Press the apply button, and fill out the form. You should be whitelisted shortly after. We do this to keep the modded server secure and fun for all! </li>
+<li>After being whitelisted, you will be able to join the server. Enjoy!</li>
 </ol>
-<p><code><strong>modded.mmaminecraft.org</strong></code></p>
-<p>The default settings that I pre-loaded are on the low end of things. Turn up distant horizons and <a href="https://mmaminecraft.org/turning-on-shaders/" target="_blank" rel="noopener noreferrer">turn on shaders</a> if you want better graphics. <a href="https://mmaminecraft.org/turning-off-distant-horizons-dh/">Turn off distant horizons</a> and <a href="https://youtu.be/BJUmYnwVibc?si=aQu0cytOqFJhaLH6&amp;t=222" target="_blank" rel="noopener">remove the resource packs</a> if your laptop is screaming for help.</p>
+<p>Ps: The default settings that I pre-loaded are on the low end of things. Turn up distant horizons and <a href="https://mmaminecraft.org/turning-on-shaders/" target="_blank" rel="noopener noreferrer">turn on shaders</a> if you want better graphics. <a href="https://mmaminecraft.org/turning-off-distant-horizons-dh/">Turn off distant horizons</a> and <a href="https://youtu.be/BJUmYnwVibc?si=aQu0cytOqFJhaLH6&amp;t=222" target="_blank" rel="noopener">remove the resource packs</a> if your laptop is screaming for help.</p>
             ]]>
         </content>
     </entry>
